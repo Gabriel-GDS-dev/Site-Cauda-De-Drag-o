@@ -58,6 +58,12 @@ header {
   color: #ffffff;
 }
 
+.social-icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+}
+
 footer {
   text-align: center;
   padding: 1rem;
